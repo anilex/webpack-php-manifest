@@ -17,7 +17,7 @@
     "lodash": "^4.17.4"
   },
   "peerDependencies": {
-    "webpack": "^4.0.0"
+    "webpack": ">=4.0.0"
   },
   "author": "Gabe Blair <gabe@castironcoding.com>",
   "license": "MIT"
